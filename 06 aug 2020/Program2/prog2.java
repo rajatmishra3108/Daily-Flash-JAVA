@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /* Write a java program that accepts the student year and student marks and using that stud year and marks
    it will check student is eligible or not for educational scholarship by help of nested switch case.
    Condition 1: In first switch case take param as student year and in nested take as stud marks.
