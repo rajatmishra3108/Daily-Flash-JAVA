@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Alphabet<18 aug 2020_280634eb>",
+      "request": "launch",
+      "mainClass": "Program1.Alphabet",
+      "projectName": "18 aug 2020_280634eb"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Charachter<18 aug 2020_280634eb>",
+      "request": "launch",
+      "mainClass": "Program2.Charachter",
+      "projectName": "18 aug 2020_280634eb"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Charachter<18 aug 2020_280634eb>(1)",
+      "request": "launch",
+      "mainClass": "Program3.Charachter",
+      "projectName": "18 aug 2020_280634eb"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Pattern<18 aug 2020_280634eb>",
+      "request": "launch",
+      "mainClass": "Program4.Pattern",
+      "projectName": "18 aug 2020_280634eb"
+    }
+  ]
+}
