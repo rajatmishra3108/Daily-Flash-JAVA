@@ -42,7 +42,6 @@ class Percentage {
         }
         else {
 
-            System.out.println(total);
             System.out.println("Grade F");
         }
     }
